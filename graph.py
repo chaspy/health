@@ -26,5 +26,4 @@ plt.legend() # 凡例を表示
 plt.title("Weight")
 plt.xlabel("Datetime")
 plt.ylabel("Weight(kg)")
-plt.show()
-#plt.savefig("weight.png")
+plt.savefig("weight.png")
